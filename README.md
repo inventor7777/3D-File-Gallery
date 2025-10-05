@@ -1,5 +1,5 @@
 # 3D-File-Gallery
-Yo! You've found my personal collection of 3D model files that I've made or downloaded.
+Sup! You've found my personal collection of 3D model files that I've made or downloaded.
 -----------------
 It's basically a backup of everything I use, plus I can share models which I don't feel like uploading to [Thingiverse](https://www.thingiverse.com/techmagic3d/designs) and the like.
 
