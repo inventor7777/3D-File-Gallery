@@ -1,7 +1,7 @@
 # 3D-File-Gallery
 Sup! You've found my personal collection of 3D model files that I've made or downloaded.
 -----------------
-It's basically a backup of everything I use, plus I can share models which I don't feel like uploading to [Thingiverse](https://www.thingiverse.com/techmagic3d/designs) and the like.
+It's basically a backup of everything I have on my drive, plus I can share models which I don't feel like uploading to [Thingiverse](https://www.thingiverse.com/techmagic3d/designs) and the like.
 
 Everything here has been printed on an Elegoo Centauri Carbon or Neptune 4 Pro, and *(if it's my original design)* **calibrated**, **tortured**, and held to **unreasonable standards of performance.**
 
