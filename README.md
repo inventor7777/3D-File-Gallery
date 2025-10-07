@@ -9,4 +9,4 @@ On this repo don't expect *any* sort of instructions or guides or anything, thes
 
 **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
 
-_Tip: if a bracket or mount here seems too thick for you, it's likely like that for a reason. **PLEASE** do not make this stuff thinner and less durable - and if you do decide to make these parts dumber by doing that **PLEASE** don't post it as a remix 🤪_
+_If you decide to “optimize” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” or my Centauri Carbon will find where you live :o_
