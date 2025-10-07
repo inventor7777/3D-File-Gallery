@@ -11,7 +11,7 @@ On this repo don't expect *any* sort of instructions or guides or anything, thes
 
 **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
 
-- If you decide to “*optimize*” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... or my Centauri Carbon will silently appear behind you at 3am with a structural integrity lecture.
+- If you decide to “*optimize*” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... `or my Centauri Carbon will silently appear behind you at 3am with a lengthystructural integrity lecture.`
 
 - If a bracket or mount here seems too thick for you, it’s likely like that for a reason — namely, *not* breaking in half like a breadstick on first use. 
 
