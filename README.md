@@ -7,6 +7,8 @@ Everything here has been printed on an Elegoo Centauri Carbon or Neptune 4 Pro, 
 
 On this repo don't expect *any* sort of instructions or guides or anything, these are the *raw* files. If you want to easily browse through my best designs, just head to my [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), or [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload). However, feel free to contact me in Discussions if you think of an improvement, or if you just want to check and make sure the file is the latest and most durable.
 
+# Guidelines
+
 **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
 
 _If you decide to “optimize” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... or my Centauri Carbon will find where you live :D_
