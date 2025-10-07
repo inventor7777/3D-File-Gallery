@@ -9,12 +9,12 @@ On this repo don't expect *any* sort of instructions or guides or anything, thes
 
 # Guidelines
 
-— **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
+- **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
 
-— If you decide to “*optimize*” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... or my Centauri Carbon will find where you live :P 
+- If you decide to “*optimize*” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... or my Centauri Carbon will find where you live :P 
 
-• If a bracket or mount here seems too thick for you, it’s likely like that for a reason — namely, *not* breaking in half like a breadstick on first use. 
+- If a bracket or mount here seems too thick for you, it’s likely like that for a reason — namely, *not* breaking in half like a breadstick on first use. 
 
-• Ask yourself: *“Am I smarter than a tree at 60mph?”* Because that’s what these are **designed** to survive. If you rudely chop off all the strength and upload it as a “lightweight version,” just know I’ll assume you also wear Crocs with tuxedos and think hairspray is a valid bed adhesive. 
+- **Ask yourself:** *“Am I smarter than a tree at 60mph?”* Because that’s what these are **designed** to survive. If you rudely chop off all the strength and upload it as a “lightweight version,” just know I’ll assume you also wear Crocs with tuxedos and think hairspray is a valid bed adhesive. 
 
-On the other hand, if you think this stuff is too weak and thin - Congrats! Consider yourself smarter than half of R/C Thingiverse users. If you make this stuff thicker...send it to me **pronto**
+• On the other hand, if you think this stuff is too weak and thin - Congrats! Consider yourself smarter than half of R/C Thingiverse users. If you make this stuff thicker...send it to me **pronto**
