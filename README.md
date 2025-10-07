@@ -8,3 +8,5 @@ Everything here has been printed on an Elegoo Centauri Carbon or Neptune 4 Pro, 
 On this repo don't expect *any* sort of instructions or guides or anything, these are the *raw* files. If you want to easily browse through my best designs, just head to my [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), or [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload). However, feel free to contact me in Discussions if you think of an improvement, or if you just want to check and make sure the file is the latest and most durable.
 
 **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
+
+_Tip: if a bracket or mount here seems too thick for you, it's likely like that for a reason. **PLEASE** do not make this stuff thinner and less durable - and if you do decide to make these parts dumber by doing that **PLEASE** don't post it as a remix 🤪_
