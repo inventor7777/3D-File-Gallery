@@ -9,4 +9,4 @@ On this repo don't expect *any* sort of instructions or guides or anything, thes
 
 **If you use these files, please give some attribution if possible! But feel free to do whatever you want otherwise, even selling. If you decide to remix and redistribute, _please_ consider releasing under similar terms rather than a standard license.**
 
-_If you decide to “optimize” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” or my Centauri Carbon will find where you live :o_
+_If you decide to “optimize” my designs by thinning them out to the structural integrity of a saltine cracker, go ahead — but please don’t upload your new “remix” ... or my Centauri Carbon will find where you live :D_
